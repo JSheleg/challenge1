@@ -2,7 +2,7 @@
 ## Horiseon: Updated Accessiblity Standards
 
 
-![Hero](assets\images\Hero.JPG)
+![Hero](https://github.com/JSheleg/challenge1/blob/main/assets/images/Hero.JPG)
 
 
 ### Who: 
